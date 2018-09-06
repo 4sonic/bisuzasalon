@@ -1,0 +1,147 @@
+---
+layout: default
+---
+
+<section class="index">
+<!-- Carousel -->
+<div class="index__gallery">
+{% for act in page.carousel %}
+<div class="index__gallery-cell" style="background-image: url({{act.image}})">
+<div class="row index__gallery__text align-middle align-center">
+	<div class="small-8 columns text-center index__gallery__text__inner">
+	<h1>{{act.name}}</h1>
+  <h4>{{act.subheader}}</h4>
+</div>
+</div>
+</div>
+{% endfor %}
+</div>
+<!-- End Carousel -->
+
+<!-- Intro -->
+<section class="home__intro">
+    <div class="row align-center text-center">
+      <div class="small-11 medium-9 medium-offset-0 columns">
+        <h2>{{page.intro-header}}</h2>
+				<h5>{{page.intro-text}}</h5>
+      </div>
+    </div>
+</section>
+<!-- End Intro -->
+
+<!-- Servicios -->
+  <section class="servicios">
+    <div class="row align-middle sombracaja">
+      <div class="small-12 medium-7 columns">
+      	<img src="/uploads/peluqueria-small.jpg" alt="">
+      </div>
+      <div class="card small-12 medium-5 column text-center ">
+        <div class="card-section">
+          <h3>Peluquería</h3>
+          <p>Más de 10 años de experiencia avalan nuestros servicios de peluquería. Vanguardia, creatividad y últimas tendencias de la mano de los mejores profesionales.</p>
+        </div>
+      </div>
+    </div>
+  	<div class="row align-middle">
+      <div class="small-12 medium-5 medium-order-2 columns">
+      	<img data-interchange="[/uploads/manicura-small.jpg, small], [/uploads/manicura.jpg, medium], [/uploads/manicura.jpg, large]">
+      </div>
+      <div class="card small-12 medium-7 medium-order-1 column text-center">
+        <div class="card-section">
+          <h3>Manicura & pedicura</h3>
+          <p>Te ofrecemos manicuras tradicionales, permanentes, decoraciones… para que luzcas unas manos perfectas en todo momento.</p>
+        </div>
+      </div>
+    </div>
+  	<div class="row align-middle">
+  		<div class="small-12 medium-7 columns">
+  			<img src="/uploads/maquillaje.jpg" alt="">
+  		</div>
+  		<div class="card small-12 medium-5 column text-center">
+  			<div class="card-section" >
+  				<h3>Maquillaje</h3>
+  				<p>La imagen es algo fundamental en la sociedad actual, y nosotras lo sabemos, por eso en nuestro centro te maquillamos para el día, o para ese dia tan especial como es el dia de tu boda.</p>
+  			</div>
+  		</div>
+  	</div>
+
+  	<div class="row align-middle">
+  		<div class="small-12 medium-5 medium-order-2 columns">
+  			<img data-interchange="[/uploads/masajes-small.jpg, small], [/uploads/masajes.jpg, medium], [/uploads/masajes.jpg, large]">
+  		</div>
+  		<div class="card small-12 medium-7 medium-order-1 column text-center">
+  			<div class="card-section">
+  				<h3>Masajes & spa</h3>
+  				<p>En Bisuza Salón de Belleza, te proponemos este masaje que te hará olvidar las tensiones y el estrés, dejándote evadirte por completo.</p>
+  			</div>
+  		</div>
+  	</div>
+  	<div class="row align-middle">
+  		<div class="small-12 medium-7 columns">
+  			<img src="/uploads/tratamientos.jpg" alt="">
+  		</div>
+  		<div class="card small-12 medium-5 column text-center">
+  			<div class="card-section" >
+  				<h3>Tratamientos</h3>
+  				<p>Luce radiante con los efectos profesionales que tenemos para ti. Colorimetría: Mechas Californianas, balayage, mechas tradicionales, tintes , degradados y mucho más.</p>
+  			</div>
+  		</div>
+  	</div>
+
+  	<div class="row align-middle sombracaja">
+  		<div class="small-12 medium-5 medium-order-2 columns">
+  			<img data-interchange="[/uploads/peinados-small.jpg, small], [/uploads/peinados.jpg, medium], [/uploads/peinados.jpg, large]">
+  		</div>
+  		<div class="card small-12 medium-7 medium-order-1 column text-center">
+  			<div class="card-section">
+  				<h3>Peinados & recogidos</h3>
+  				<p>Queremos ayudarlas a que ese día tan especial y soñado por todas, se convierta en realidad de una manera fácil, rápida y cómoda.</p>
+  			</div>
+  		</div>
+  	</div>
+  </section>
+</section>
+<!-- end servicios -->
+
+<!-- Featured -->
+{% if page.featured.size > 6 %}
+<div class="row expanded collapse small-up-2 medium-up-2 large-up-4 xlarge-up-4 event__acts">
+{% else %}
+<div class="row expanded collapse small-up-1 medium-up-3 large-up-3 xlarge-up-3 event__acts">
+{% endif %}
+    {% for act in page.featured %}
+<div class="columns">
+  <div class="excerpt">
+    <a href="/line-up/{{act.line-up | slugify}}">
+
+      <div class="row excerpt__title align-middle">
+        <div class="small-12 columns text-center">
+          <p>{{ act.name }}</p>
+
+          {% if act.is-sold-out == true %}
+          <p>Sold Out</p>
+          {% endif %}
+
+        </div>
+      </div>
+
+      <div class="excerpt__image">
+        <img src="{{act.image}}" alt="{{act.title}}">
+      </div>
+
+    </a>
+  </div>
+</div>
+    {% endfor %}
+</div>
+<!-- End Featured -->
+
+<!-- Line-up Link -->
+<div class="row expanded align-center index__lineuplink"style="display:block; background-image:url(/uploads/blog_image.jpg); ">
+<div class="small-11 columns text-center">
+  <h3><a href="/blog"><span>blog</span> <svg class="icon icon-arrow-right"><use xlink:href="/assets/icons/symbol-defs.svg#icon-arrow-right"></use></svg></a></h3>
+  <h4>El mundo de la belleza actualizado día a día</h4>
+</div>
+</div>
+<!-- End Line-up Link -->
+</section>

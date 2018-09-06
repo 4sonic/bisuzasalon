@@ -1,0 +1,66 @@
+---
+title: Bisuza Salón
+timezone: UTC
+collections:
+  line-up:
+    title: Line-up
+    output: true
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: false
+defaults:
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: page
+description: Bisuza Salón es más que un salón de belleza.
+permalink: pretty
+exclude:
+- Gemfile
+- Gemfile.lock
+- bower.json
+- package.json
+- config.codekit3
+- README*
+- LICENSE*
+- CHANGELOG*
+- node_modules
+- ".gitignore"
+- bower_components
+gems:
+- jekyll-seo-tag
+- jekyll-sitemap
+- jekyll-feed
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+highlighter: rouge
+company: Bisuza Salón
+email: bisuzasalon@gmail.com
+google_site_verification:
+analytics:
+logo: "/assets/img/logo.svg"
+per_page: 12
+date_format: "%b %d, %Y"
+future: true
+social:
+  facebook: https://www.facebook.com/bisuzasalon
+  instagram: https://www.instagram.com/bisuza_salon
+  twitter: https://twitter.com/bisuzasalon
+compress_html:
+  comments:
+  - "<!-- "
+  - " -->"
+  blanklines: true
+  profile: false
+pagination:
+  enabled: true
+  permalink:        "/blog/:year/:title/"
+  paginate_path:    "/blog/page:num"
+  paginate:         5
+  permalink: /:categories/:title/

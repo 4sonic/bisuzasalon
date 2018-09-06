@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+<section class="info">
+  <div class="row">
+    <div class="expand columns">
+      {% for details in page.general %}
+      <div class="callout">
+        {{ details.text | markdownify }}
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>

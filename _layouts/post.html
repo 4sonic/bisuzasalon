@@ -1,0 +1,33 @@
+---
+layout: default
+---
+
+<!-- Content -->
+<div class="row callout post__content align-center">
+  <div class="small-10 medium-10 large-8 columns">
+    <h1>{{ page.title }}</h1>
+    <p>{{ page.content | markdownify }}</p>
+  </div>
+</div>
+<!-- End Content -->
+
+<!-- Post Share Bottom -->
+<div class="row callout post__share__bottom align-center">
+	<div class="small-12 columns text-center">
+		<p>Comparte<p>
+		<ul class="menu simple align-center">
+			{% include sharing.html %}
+	  	</ul>
+	</div>
+</div>
+<!-- End Post Share Bottom -->
+
+
+<!-- Pagination -->
+<div class="row callout post__pagination align-center">
+  <div class="small-12 columns">
+    {% include pagination.html %}
+  </div>
+</div>
+
+<!-- End Pagination -->
