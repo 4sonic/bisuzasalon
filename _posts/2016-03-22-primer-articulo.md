@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Primer articulo
+title: 'Cortes de Cabello '
 categories: 'cortes de cabello '
 ---
 
