@@ -17,6 +17,7 @@ defaults:
     type: pages
   values:
     layout: page
+url: https://www.bisuzasalon.com 
 description: Bisuza Salón es más que un salón de belleza.
 permalink: pretty
 exclude:
