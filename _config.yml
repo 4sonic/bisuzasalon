@@ -17,6 +17,7 @@ defaults:
     type: pages
   values:
     layout: page
+url: https://www.bisuzasalon.com 
 description: Bisuza Salón es más que un salón de belleza.
 permalink: pretty
 exclude:
@@ -42,7 +43,7 @@ kramdown:
 highlighter: rouge
 company: Bisuza Salón
 email: bisuzasalon@gmail.com
-google_site_verification:
+google_site_verification: TI8yZBUTsxK72A7Pp8aQDB_84UaSU-VKlankgb0MM2w
 analytics:
 logo: "/assets/img/logo.svg"
 per_page: 12
