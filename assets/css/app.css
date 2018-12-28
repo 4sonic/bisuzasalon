@@ -8724,6 +8724,8 @@ section.servicios .card-section {
       padding: 0 2.5rem; }
   .location img {
     margin-bottom: 2.5rem; }
+  .location h3 {
+    margin-bottom: 2.5rem; }
 
 .location__map {
   margin-bottom: 2rem;
