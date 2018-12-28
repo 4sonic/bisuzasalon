@@ -83,11 +83,11 @@ i, cite, em, var, address, dfn {
 // 4. Navigation
 // -------------
 .top-bar {
-    border-bottom: 2px solid $color--pomegranate;
-    li.prueba {
+    border-bottom: 3px solid $color--dark-gray;
+    li.reservas {
       a {
-        color: $color--pomegranate;
-        font-weight: bold;
+        color: $color--white;
+        text-transform: uppercase;
         font-size: 110%;
       }
     }
@@ -209,9 +209,12 @@ div.row.excerpt__title {
 // 5. Index
 // --------
 .home__intro {
-  background-color: $color--pomegranate;
+  background-color: $color--black;
   color: $color--white;
   padding: rem-calc(60 0);
+  a.large.button {
+    margin-top: rem-calc(40);
+  }
 }
 .index {
   // background: url(/uploads/bottom-artwork.png);

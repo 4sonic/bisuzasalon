@@ -8530,10 +8530,10 @@ i, cite, em, var, address, dfn {
     color: #000000; }
 
 .top-bar {
-  border-bottom: 2px solid #c0392b; }
-  .top-bar li.prueba a {
-    color: #c0392b;
-    font-weight: bold;
+  border-bottom: 3px solid #666666; }
+  .top-bar li.reservas a {
+    color: #ffffff;
+    text-transform: uppercase;
     font-size: 110%; }
 
 .top-bar a {
@@ -8629,9 +8629,11 @@ div.row.excerpt__title {
   z-index: 10000; }
 
 .home__intro {
-  background-color: #c0392b;
+  background-color: #000000;
   color: #ffffff;
   padding: 3.75rem 0; }
+  .home__intro a.large.button {
+    margin-top: 2.5rem; }
 
 .index {
   background-repeat: no-repeat;
