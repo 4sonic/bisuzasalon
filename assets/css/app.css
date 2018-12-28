@@ -8738,7 +8738,8 @@ section.servicios .card-section {
     .location__map {
       height: 30rem; } }
 
-#garibaldi_canvas {
+#garibaldi_canvas,
+#ottawa_canvas {
   margin-bottom: 2.5rem; }
 
 .contact {
