@@ -8632,6 +8632,10 @@ div.row.excerpt__title {
   background-color: #000000;
   color: #ffffff;
   padding: 3.75rem 0; }
+  .home__intro h4 {
+    font-family: 'Larsseit';
+    line-height: 1.5;
+    margin-top: 0.625rem; }
   .home__intro a.large.button {
     margin-top: 2.5rem; }
 

@@ -212,6 +212,11 @@ div.row.excerpt__title {
   background-color: $color--black;
   color: $color--white;
   padding: rem-calc(60 0);
+  h4 {
+    font-family: 'Larsseit';
+    line-height: 1.5;
+    margin-top: rem-calc(10);
+  }
   a.large.button {
     margin-top: rem-calc(40);
   }
