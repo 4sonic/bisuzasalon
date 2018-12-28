@@ -249,13 +249,6 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/_site\/2016\/03\/22\/primer-articulo\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/2016\/03\/22\/primer-articulo\/index.html",
-		"oF": 0
-		},
 	"\/_site\/2016\/03\/23\/segundo-articulo\/index.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -290,16 +283,6 @@
 		"oA": 2,
 		"oAP": "\/_site\/admin\/index.html",
 		"oF": 0
-		},
-	"\/_site\/assets\/css\/app.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/_site\/assets\/css\/app-min.css",
-		"oF": 0,
-		"oS": 3
 		},
 	"\/_site\/assets\/css\/app.css.map": {
 		"cB": 0,
@@ -552,7 +535,7 @@
 		},
 	"\/_site\/assets\/img\/og-image.png": {
 		"ft": 32768,
-		"iS": 66690,
+		"iS": 262377,
 		"oA": 0,
 		"oAP": "\/_site\/assets\/img\/og-image.png",
 		"oF": 0,
@@ -628,6 +611,13 @@
 		"oAP": "\/_site\/contacto\/index.html",
 		"oF": 0
 		},
+	"\/_site\/cortes\/de\/cabello\/2016\/03\/22\/primer-articulo\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/cortes\/de\/cabello\/2016\/03\/22\/primer-articulo\/index.html",
+		"oF": 0
+		},
 	"\/_site\/feed.xml": {
 		"cB": 0,
 		"ft": 8192,
@@ -641,6 +631,26 @@
 		"oA": 2,
 		"oAP": "\/_site\/humans.txt",
 		"oF": 0
+		},
+	"\/_site\/img\/uploads\/morrismotley_and-longer-hair-haircut.jpg": {
+		"ft": 16384,
+		"iS": 22153,
+		"oA": 0,
+		"oAP": "\/_site\/img\/uploads\/morrismotley_and-longer-hair-haircut.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/img\/uploads\/sl1.jpg": {
+		"ft": 16384,
+		"iS": 94375,
+		"oA": 0,
+		"oAP": "\/_site\/img\/uploads\/sl1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/_site\/index.html": {
 		"cB": 0,
@@ -1621,7 +1631,7 @@
 		},
 	"\/assets\/img\/og-image.png": {
 		"ft": 32768,
-		"iS": 66690,
+		"iS": 262377,
 		"oA": 0,
 		"oAP": "\/assets\/img\/og-image.png",
 		"oF": 0,
@@ -8564,6 +8574,26 @@
 		"oA": 2,
 		"oAP": "\/humans.txt",
 		"oF": 0
+		},
+	"\/img\/uploads\/morrismotley_and-longer-hair-haircut.jpg": {
+		"ft": 16384,
+		"iS": 22153,
+		"oA": 0,
+		"oAP": "\/img\/uploads\/morrismotley_and-longer-hair-haircut.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/uploads\/sl1.jpg": {
+		"ft": 16384,
+		"iS": 94375,
+		"oA": 0,
+		"oAP": "\/img\/uploads\/sl1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/index.md": {
 		"cB": 0,

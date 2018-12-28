@@ -84,6 +84,13 @@ i, cite, em, var, address, dfn {
 // -------------
 .top-bar {
     border-bottom: 2px solid $color--pomegranate;
+    li.prueba {
+      a {
+        color: $color--pomegranate;
+        font-weight: bold;
+        font-size: 110%;
+      }
+    }
 }
 .top-bar a {
   color: $color--white;
@@ -322,6 +329,9 @@ section.servicios{
   }
   .row {
     margin: rem-calc(40 auto);
+    .columns {
+      padding: rem-calc(0 40);
+    }
   }
   img {
     margin-bottom: rem-calc(40);
@@ -336,6 +346,9 @@ section.servicios{
   @include breakpoint(medium) {
   height: 30rem;
   }
+}
+#garibaldi_canvas {
+  margin-bottom: rem-calc(40);
 }
 
 // 11. Contact

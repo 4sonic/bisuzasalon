@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<section class="location">
+<!-- <section class="location">
   <div class="row column">
     <h4>{{page.header}}</h4>
   </div>
@@ -26,6 +26,40 @@ layout: default
       </div>
     {% endfor %}
   </div>
+</section> -->
+<section class="location">
+  <div class="row">
+    <div class="small-12 medium-7 columns">
+      <div id="garibaldi_canvas" style="width: 100%; height: 20rem"></div>
+    </div>
+    <div class="small-12 medium-4 columns">
+      <h3>Garibaldi</h3>
+      <p>Calle Garibaldi 2693 <br>
+      Colonia Circunvalación Vallarta<br>
+      C.P. 44680<br>
+      Guadalajara, Jalisco<br>
+      México</p>
+      <div><a href="https://goo.gl/maps/DFMvGXgcMhS2" class="underline">Dirección</a></div>
+      <div><a href="tel:3336150075" class="underline">33 3615 0075</a></div>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="small-12 medium-7 columns">
+      <div id="ottawa_canvas" style="width: 100%; height: 20rem"></div>
+    </div>
+    <div class="small-12 medium-4 columns">
+      <h3>Ottawa</h3>
+      <p>Calle Ottawa 1568-8<br>
+      Colonia Providencia<br>
+      C.P. 44658<br>
+      Guadalajara, Jalisco<br>
+      México</p>
+      <div><a href="https://goo.gl/maps/LbXVmXkESMR2" class="underline">Dirección</a></div>
+      <div><a href="tel:3338170199" class="underline">33 3817 0199</a></div>
+    </div>
+  </div>
 </section>
+
 
 {% include map-script.html %}

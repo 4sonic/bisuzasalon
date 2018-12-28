@@ -8531,6 +8531,10 @@ i, cite, em, var, address, dfn {
 
 .top-bar {
   border-bottom: 2px solid #c0392b; }
+  .top-bar li.prueba a {
+    color: #c0392b;
+    font-weight: bold;
+    font-size: 110%; }
 
 .top-bar a {
   color: #ffffff; }
@@ -8714,6 +8718,8 @@ section.servicios .card-section {
       padding-top: 2rem; } }
   .location .row {
     margin: 2.5rem auto; }
+    .location .row .columns {
+      padding: 0 2.5rem; }
   .location img {
     margin-bottom: 2.5rem; }
 
@@ -8723,6 +8729,9 @@ section.servicios .card-section {
   @media print, screen and (min-width: 40em) {
     .location__map {
       height: 30rem; } }
+
+#garibaldi_canvas {
+  margin-bottom: 2.5rem; }
 
 .contact {
   background-color: #ffffff;
