@@ -1,14 +1,65 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-01-09T00:02:28+00:00</updated><id>http://localhost:4000/</id><title type="html">Bisuza Salón</title><subtitle>Bisuza Salón es más que un salón de belleza.</subtitle><entry><title type="html">Tercer articulo</title><link href="http://localhost:4000/2016/03/24/tercer-articulo/" rel="alternate" type="text/html" title="Tercer articulo" /><published>2016-03-24T00:00:00+00:00</published><updated>2016-03-24T00:00:00+00:00</updated><id>http://localhost:4000/2016/03/24/tercer-articulo</id><content type="html" xml:base="http://localhost:4000/2016/03/24/tercer-articulo/">&lt;p&gt;&lt;img src=&quot;//placehold.it/750x500/643B9A/FFFFFF'&quot; alt=&quot;primer articulo&quot; /&gt;
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel nunc a lacus semper suscipit a id massa. Etiam vel nulla augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nullam mattis odio orci, non aliquam ipsum pretium eu. Nulla scelerisque vel neque vitae consequat. Donec molestie lectus eget rutrum tristique. Pellentesque iaculis augue aliquet, eleifend dolor eget, tempus metus. Ut faucibus quis erat sit amet pulvinar. Proin tristique mollis posuere. Praesent eget urna sit amet leo varius maximus non id nibh. Donec facilisis ante sit amet mauris feugiat iaculis. Integer ac urna neque.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-01-09T00:28:32+00:00</updated><id>http://localhost:4000/</id><title type="html">Bisuza Salón</title><subtitle>Bisuza Salón es más que un salón de belleza.</subtitle><entry><title type="html">Tendencias en Cortes de Cabello 2019</title><link href="http://localhost:4000/cortes/de/cabello,/tendencias/cabello/2019/01/06/tendencias-en-cortes-de-cabello-2019/" rel="alternate" type="text/html" title="Tendencias en Cortes de Cabello 2019" /><published>2019-01-06T00:00:00+00:00</published><updated>2019-01-06T00:00:00+00:00</updated><id>http://localhost:4000/cortes/de/cabello,/tendencias/cabello/2019/01/06/tendencias-en-cortes-de-cabello-2019</id><content type="html" xml:base="http://localhost:4000/cortes/de/cabello,/tendencias/cabello/2019/01/06/tendencias-en-cortes-de-cabello-2019/">&lt;p&gt;&lt;img src=&quot;/img/uploads/new-york-str-c-rs17-14362.jpg&quot; alt=&quot;null&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Ut at dapibus neque. Phasellus eget ligula nec nulla consectetur luctus vitae nec purus. Phasellus consectetur, sem vel vulputate elementum, nisl risus eleifend nulla, sed tempor metus ipsum ac purus. Nullam consequat, massa a sodales pellentesque, mi lacus pretium orci, in varius dui dui eget nibh. Mauris a sapien eget lorem venenatis sollicitudin et nec arcu. Maecenas vitae nibh sollicitudin, mattis massa at, lobortis libero. Vestibulum imperdiet augue dolor, a vulputate urna maximus a. Donec orci lorem, malesuada in quam interdum, efficitur tempor sapien. Duis ultrices posuere enim et ultrices. Fusce rhoncus nisi augue, at condimentum ipsum semper quis. Suspendisse ac semper mauris. Quisque varius sapien turpis, at efficitur dolor fermentum pharetra. Nulla tempus diam blandit, volutpat tellus vitae, congue nulla.&lt;/p&gt;</content><author><name></name></author><summary type="html">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel nunc a lacus semper suscipit a id massa. Etiam vel nulla augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nullam mattis odio orci, non aliquam ipsum pretium eu. Nulla scelerisque vel neque vitae consequat. Donec molestie lectus eget rutrum tristique. Pellentesque iaculis augue aliquet, eleifend dolor eget, tempus metus. Ut faucibus quis erat sit amet pulvinar. Proin tristique mollis posuere. Praesent eget urna sit amet leo varius maximus non id nibh. Donec facilisis ante sit amet mauris feugiat iaculis. Integer ac urna neque.</summary></entry><entry><title type="html">Segundo articulo</title><link href="http://localhost:4000/2016/03/23/segundo-articulo/" rel="alternate" type="text/html" title="Segundo articulo" /><published>2016-03-23T00:00:00+00:00</published><updated>2016-03-23T00:00:00+00:00</updated><id>http://localhost:4000/2016/03/23/segundo-articulo</id><content type="html" xml:base="http://localhost:4000/2016/03/23/segundo-articulo/">&lt;p&gt;&lt;img src=&quot;https://images.unsplash.com/photo-1505801066737-f25b349904b5?ixlib=rb-0.3.5&amp;amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;amp;s=cb1bb19f7cdecfa660e29c7e019dc549&amp;amp;auto=format&amp;amp;fit=crop&amp;amp;w=1352&amp;amp;q=80&quot; alt=&quot;segundo articulo&quot; /&gt;&lt;/p&gt;
+&lt;h1 id=&quot;los-cortes-de-cabello-que-veremos-este-año&quot;&gt;Los cortes de cabello que veremos este año…&lt;/h1&gt;
 
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Puntas Rectas&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Cortes de Cabello</title><link href="http://localhost:4000/cortes/de/cabello/2016/03/22/primer-articulo/" rel="alternate" type="text/html" title="Cortes de Cabello " /><published>2016-03-22T00:00:00+00:00</published><updated>2016-03-22T00:00:00+00:00</updated><id>http://localhost:4000/cortes/de/cabello/2016/03/22/primer-articulo</id><content type="html" xml:base="http://localhost:4000/cortes/de/cabello/2016/03/22/primer-articulo/">&lt;p&gt;&lt;img src=&quot;/img/uploads/morrismotley_and-longer-hair-haircut.jpg&quot; alt=&quot;null&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;En el 2018 vimos muchas melenas cortas ultra lacias con aires futuristas , puntas rectas y flequillo también recto. En el 2019 esta tendencia sigue más vigente que nunca!&lt;/p&gt;
 
-&lt;h1 id=&quot;vamos-a-hablar-de-cortes-de-cabello&quot;&gt;vamos a hablar de cortes de cabello&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;/img/uploads/pelorojo.jpg&quot; alt=&quot;corte recto, blunt cut, bangs&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel nunc a lacus semper suscipit a id massa. Etiam vel nulla augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nullam mattis odio orci, non aliquam ipsum pretium eu. Nulla scelerisque vel neque vitae consequat. Donec molestie lectus eget rutrum tristique. Pellentesque iaculis augue aliquet, eleifend dolor eget, tempus metus. Ut faucibus quis erat sit amet pulvinar. Proin tristique mollis posuere. Praesent eget urna sit amet leo varius maximus non id nibh. Donec facilisis ante sit amet mauris feugiat iaculis. Integer ac urna neque.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Súper Pixie&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Ut at dapibus neque. Phasellus eget ligula nec nulla consectetur luctus vitae nec purus. Phasellus consectetur, sem vel vulputate elementum, nisl risus eleifend nulla, sed tempor metus ipsum ac purus. Nullam consequat, massa a sodales pellentesque, mi lacus pretium orci, in varius dui dui eget nibh. Mauris a sapien eget lorem venenatis sollicitudin et nec arcu. Maecenas vitae nibh sollicitudin, mattis massa at, lobortis libero. Vestibulum imperdiet augue dolor, a vulputate urna maximus a. Donec orci lorem, malesuada in quam interdum, efficitur tempor sapien. Duis ultrices posuere enim et ultrices. Fusce rhoncus nisi augue, at condimentum ipsum semper quis. Suspendisse ac semper mauris. Quisque varius sapien turpis, at efficitur dolor fermentum pharetra. Nulla tempus diam blandit, volutpat tellus vitae, congue nulla.&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry></feed>
+&lt;p&gt;Lo hemos visto en celebridades como Cristen Stuart o Cara Delevingne o Michelle Williams. Un corte que no es para todas pero sin dud&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/uploads/cortes_de_pelo_para_2019_2981_490x736.jpg&quot; alt=&quot;pixie cut, súper pixie, haircut&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Blunt wet cut&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;El corte de cabello “blunt” vuelve con un toque texturizado y con aspecto húmedo regresa con un flequillo largo desaliñado y abierto&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/uploads/bluntwet.jpg&quot; alt=&quot;wet cut, blunt cut, blunt wet cut, haircut&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Baby Bangs&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Los cortes con flequillo ultra corto y recto siguen con todo este año&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/uploads/2abcbd7da433e4f12c369c8ea2ba91c2.jpg&quot; alt=&quot;bangs , baby bangs &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Long Pixie&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Corto que queda al inicio de la mandíbula con flequillo abierto va muy bien&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/uploads/longpixie.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Choppy bob&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Este tipo de corte se lleva a la altura de la mitad del cuello y va muy bien con partido en medio y recogido por detrás de las orejas . El corte de Dua Lipa es un claro ejemplo.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/uploads/0686be129b112b93b5afe3207147a2ff.jpg&quot; alt=&quot;choppy bob , bob haircut , haircut , hair, haircuts&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Shaggy Hair con Flequillo tupido&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Este corte en cabello rizado o crespo con nostalgia setentera se lleva este año con un flequillo tupido y desaliñado. Su textura con movimiento dando un look más salvaje y atrevido sigue posicionándolo como uno de los más pedidos.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/uploads/5b7baf348d828d55eae3e49748a62655.jpg&quot; alt=&quot;shag, shaggy cut , haircut , haircuts&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bowl cut&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Un corte muy vanguardista que se suma a la tendencia unisex  . Si te animas a llevarlo , se recomienda más para rostro afilado pues la forma de este corte es redonda con puntas rectas.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/uploads/956635aabee8967bd05119c0f9cc4b06.jpg&quot; alt=&quot;bowl hair , hair , haircut &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Cabello XL con flequillo recto&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;No todo son pixies y bobs, el cabello largo sigue teniendo su lugar y con flequillo recto se lleva muy chic este 2019&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/uploads/b316356266691070caaf56ff0e442b01.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bob texturizado&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;El texturizado en las melenas mediante geles o finalizadores que le den un aspecto fresco y jovial , es una de las claves más predominantes de este 2019&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/uploads/wetbob.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;¿Así que , estás dispuesta a cambiar tu look con un nuevo corte? Qué mejor que el inicio del año para hacerlo , en Bisuza quedarás en las mejores manos!&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry></feed>

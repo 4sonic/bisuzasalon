@@ -1,19 +1,19 @@
 ---
 layout: post
-title: 'Tendencias en Cortes de Cabello 2019 '
+title: 'Tendencias en Cortes de Cabello 2019'
 categories: 'cortes de cabello, tendencias de cabello'
 ---
 ![null](/img/uploads/new-york-str-c-rs17-14362.jpg)
 
 # Los cortes de cabello que veremos este año...
 
-**Puntas Rectas **
+**Puntas Rectas**
 
-En el 2018 vimos muchas melenas cortas ultra lacias con aires futuristas , puntas rectas y flequillo también recto. En el 2019 esta tendencia sigue más vigente que nunca! 
+En el 2018 vimos muchas melenas cortas ultra lacias con aires futuristas , puntas rectas y flequillo también recto. En el 2019 esta tendencia sigue más vigente que nunca!
 
 ![corte recto, blunt cut, bangs](/img/uploads/pelorojo.jpg)
 
-**Súper Pixie **
+**Súper Pixie**
 
 Lo hemos visto en celebridades como Cristen Stuart o Cara Delevingne o Michelle Williams. Un corte que no es para todas pero sin dud
 
@@ -21,7 +21,7 @@ Lo hemos visto en celebridades como Cristen Stuart o Cara Delevingne o Michelle 
 
 **Blunt wet cut**
 
-El corte de cabello "blunt" vuelve con un toque texturizado y con aspecto húmedo regresa con un flequillo largo desaliñado y abierto 
+El corte de cabello "blunt" vuelve con un toque texturizado y con aspecto húmedo regresa con un flequillo largo desaliñado y abierto
 
 ![wet cut, blunt cut, blunt wet cut, haircut](/img/uploads/bluntwet.jpg)
 
@@ -37,13 +37,13 @@ Corto que queda al inicio de la mandíbula con flequillo abierto va muy bien
 
 ![](/img/uploads/longpixie.jpg)
 
-**Choppy bob  **
+**Choppy bob**
 
 Este tipo de corte se lleva a la altura de la mitad del cuello y va muy bien con partido en medio y recogido por detrás de las orejas . El corte de Dua Lipa es un claro ejemplo.
 
 ![choppy bob , bob haircut , haircut , hair, haircuts](/img/uploads/0686be129b112b93b5afe3207147a2ff.jpg)
 
-**Shaggy Hair con Flequillo tupido **
+**Shaggy Hair con Flequillo tupido**
 
 Este corte en cabello rizado o crespo con nostalgia setentera se lleva este año con un flequillo tupido y desaliñado. Su textura con movimiento dando un look más salvaje y atrevido sigue posicionándolo como uno de los más pedidos.
 
@@ -55,15 +55,15 @@ Un corte muy vanguardista que se suma a la tendencia unisex  . Si te animas a ll
 
 ![bowl hair , hair , haircut ](/img/uploads/956635aabee8967bd05119c0f9cc4b06.jpg)
 
-**Cabello XL con flequillo recto **
+**Cabello XL con flequillo recto**
 
-No todo son pixies y bobs, el cabello largo sigue teniendo su lugar y con flequillo recto se lleva muy chic este 2019 
+No todo son pixies y bobs, el cabello largo sigue teniendo su lugar y con flequillo recto se lleva muy chic este 2019
 
 ![](/img/uploads/b316356266691070caaf56ff0e442b01.jpg)
 
-**Bob texturizado **
+**Bob texturizado**
 
-El texturizado en las melenas mediante geles o finalizadores que le den un aspecto fresco y jovial , es una de las claves más predominantes de este 2019 
+El texturizado en las melenas mediante geles o finalizadores que le den un aspecto fresco y jovial , es una de las claves más predominantes de este 2019
 
 ![](/img/uploads/wetbob.jpg)
 
