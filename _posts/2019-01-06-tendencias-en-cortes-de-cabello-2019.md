@@ -32,7 +32,7 @@ Los cortes con flequillo ultra corto y recto siguen con todo este año
 
 **Long Pixie**
 
-Corto que queda al inicio de la mandíbula con flequillo abierto va muy bien
+Corto que queda al inicio de la mandíbula muy al estilo de íconos de los 60s como Twiggy o Edie Sedgwick; con flequillo abierto va muy bien
 
 ![null](/img/uploads/longpixie.jpg)
 
