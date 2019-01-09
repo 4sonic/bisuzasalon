@@ -390,7 +390,7 @@ input[type="text"] {
 section.index__blog {
   min-height: 60vh;
   h1 {
-    color: $color--pomegranate;
+    color: $color--black;
     margin: rem-calc(30 0 20 0);
   }
   .card {
@@ -410,7 +410,7 @@ section.index__blog {
 
 .post__content{
   min-height: 50rem;
-  background-image: url(/uploads/plants.png);
+  background-image: url();
   background-repeat:no-repeat;
   background-position:right top;
   background-size:contain, contain;
@@ -427,7 +427,7 @@ section.index__blog {
 }
 
 .callout h1 {
-  color: $color--pomegranate;
+  color: $color--black;
   @include breakpoint(medium) {
     margin-top: rem-calc(80);
   }
@@ -521,7 +521,7 @@ section.about.intro {
 .pagination .icon {
   vertical-zgn: middle;
   font-size: 2rem;
-  color: $color--pomegranate;
+  color: $color--dark-gray;
 }
 
 // 11. Footer
@@ -543,7 +543,7 @@ footer a {
     color: $color--white;
     &:hover,
     &:focus {
-      color: $color--pomegranate;
+      color: $color--dark-gray;
     }
 }
 
