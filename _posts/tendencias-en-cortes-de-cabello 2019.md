@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Tendencias en Cortes de Cabello 2019 '
-categories: 'cortes de cabello, tendencias de cabello'
+title: Tendencias en Cortes de Cabello 2019
+categories: cortes de cabello, tendencias de cabello
 ---
 ![null](/img/uploads/new-york-str-c-rs17-14362.jpg)
 
