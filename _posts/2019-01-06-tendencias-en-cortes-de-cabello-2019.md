@@ -20,7 +20,7 @@ Lo hemos visto en celebridades como Cristen Stuart o Cara Delevingne o Michelle 
 
 **Blunt wet cut**
 
-El corte de cabello "blunt" vuelve con un toque texturizado y con aspecto húmedo regresa con un flequillo largo desaliñado y abierto
+El corte de cabello "blunt" vuelve con un toque texturizado y con aspecto húmedo ; este año se reinventa con un flequillo largo desaliñado y abierto
 
 ![wet cut, blunt cut, blunt wet cut, haircut](/img/uploads/bluntwet.jpg)
 
@@ -62,7 +62,7 @@ No todo son pixies y bobs, el cabello largo sigue teniendo su lugar y con flequi
 
 **Bob texturizado**
 
-El texturizado en las melenas mediante geles o finalizadores que le den un aspecto fresco y jovial , es una de las claves más predominantes de este 2019
+El texturizado en las melenas mediante finalizadores que le den un aspecto fresco y jovial , es una de las claves más predominantes de este 2019
 
 ![null](/img/uploads/wetbob.jpg)
 
