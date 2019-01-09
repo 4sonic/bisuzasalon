@@ -14,7 +14,7 @@ En el 2018 vimos muchas melenas cortas ultra lacias con aires futuristas , punta
 
 **Súper Pixie**
 
-Lo hemos visto en celebridades como Cristen Stuart o Cara Delevingne o Michelle Williams. Un corte que no es para todas pero sin duda luce cool
+Lo hemos visto en celebridades como Cristen Stuart , Cara Delevingne o Michelle Williams. Un corte que no es para todas pero sin duda luce cool
 
 ![pixie cut, súper pixie, haircut](/img/uploads/cortes_de_pelo_para_2019_2981_490x736.jpg)
 
