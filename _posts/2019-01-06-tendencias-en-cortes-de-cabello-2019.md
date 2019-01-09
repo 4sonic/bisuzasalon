@@ -1,7 +1,6 @@
 ---
 layout: post
-title: 'Tendencias en Cortes de Cabello 2019'
-categories: 
+title: Tendencias en Cortes de Cabello 2019
 ---
 ![null](/img/uploads/new-york-str-c-rs17-14362.jpg)
 
@@ -15,7 +14,7 @@ En el 2018 vimos muchas melenas cortas ultra lacias con aires futuristas , punta
 
 **Súper Pixie**
 
-Lo hemos visto en celebridades como Cristen Stuart o Cara Delevingne o Michelle Williams. Un corte que no es para todas pero sin dud
+Lo hemos visto en celebridades como Cristen Stuart o Cara Delevingne o Michelle Williams. Un corte que no es para todas pero sin duda luce cool
 
 ![pixie cut, súper pixie, haircut](/img/uploads/cortes_de_pelo_para_2019_2981_490x736.jpg)
 
@@ -35,7 +34,7 @@ Los cortes con flequillo ultra corto y recto siguen con todo este año
 
 Corto que queda al inicio de la mandíbula con flequillo abierto va muy bien
 
-![](/img/uploads/longpixie.jpg)
+![null](/img/uploads/longpixie.jpg)
 
 **Choppy bob**
 
@@ -59,12 +58,12 @@ Un corte muy vanguardista que se suma a la tendencia unisex  . Si te animas a ll
 
 No todo son pixies y bobs, el cabello largo sigue teniendo su lugar y con flequillo recto se lleva muy chic este 2019
 
-![](/img/uploads/b316356266691070caaf56ff0e442b01.jpg)
+![null](/img/uploads/b316356266691070caaf56ff0e442b01.jpg)
 
 **Bob texturizado**
 
 El texturizado en las melenas mediante geles o finalizadores que le den un aspecto fresco y jovial , es una de las claves más predominantes de este 2019
 
-![](/img/uploads/wetbob.jpg)
+![null](/img/uploads/wetbob.jpg)
 
 ¿Así que , estás dispuesta a cambiar tu look con un nuevo corte? Qué mejor que el inicio del año para hacerlo , en Bisuza quedarás en las mejores manos!
