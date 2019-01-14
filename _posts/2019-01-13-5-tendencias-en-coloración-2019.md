@@ -2,11 +2,9 @@
 layout: post
 title: '5 Tendencias en Coloración 2019 '
 ---
-![](/img/uploads/coloration-automne-hiver-2018-le-blond-ble.jpg)
+![rubio , hair trends, color trends, tendencias en coloración](/img/uploads/rubio.jpg)
 
 Este 2019 en coloración los rubios y castaños se reinventan. Los colores puros tomarán protagonismo y para quienes quieren optar por luces, se añaden técnicas que darán a una melena un aspecto más natural.  Los pelirojos se encuentran como una de las principales apuestas para el año y el negro profundo que había sido algo olvidado en el 2018, nuevamente tomará su lugar. Aquí 5 tendencias para que vayas pensando tu próximo cambio de look :
-
-
 
 **1.Rubios que contrastan con raíces obscuras o Dirty Blonde**
 
@@ -22,13 +20,11 @@ Esta tendencias es una de las que más resaltará este año. Así que si te gust
 
 ![red hair , pelirojo , hair trends, hair color, auburn hair ](/img/uploads/pelirojo.jpg)
 
-
-
 **3.Toasted Coconut**
 
 Para un look más atrevido , este tono inspirado en el interior de un coco también tendrá su lugar. Muy similar a una melena platinada pero en este caso va fusionado tonalidades cálidas y conservando un tono oscuro en las raíces. Esta tonalidad logra dar un look más jovial y llenar de luz el rostro. En pieles morenas luce genial.
 
-![](/img/uploads/5dce8d5162260d718dde8a0a6bfdfbed.jpg)
+![null](/img/uploads/5dce8d5162260d718dde8a0a6bfdfbed.jpg)
 
 **4.Castaños profundos **
 
