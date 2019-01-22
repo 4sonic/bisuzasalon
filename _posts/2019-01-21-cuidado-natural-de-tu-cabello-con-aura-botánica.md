@@ -5,8 +5,6 @@ categories: 'tratamientos, cuidado del cabello , rituales en salón'
 ---
 ![aura botánica, kerastase, natural hair, hair, natural care ](/img/uploads/aurabotanica.jpg)
 
-
-
 Para quienes buscan  dar cuidado natural de lujo responsable y devolver la vitalidad a su cabello, Aura Botánica es la línea de tratamiento ideal pues sus ingredientes son en 98% de origen natural , además de que son biodegradables y libres de siliconas, sulfatos y parabenos.
 
 Entre los principales ingredientes de esta línea ecológica están el Aceite de coco que aporta nutrición y fuerza duraderas. También está muy presente el aceite de Argán rico en omegas 6 y 9 que aporta brillo, elasticidad y suavidad.
@@ -29,12 +27,12 @@ Se recomienda _Bain Micellaire_ para todo tipo de cabello que busca cuidado natu
 
 4-Para terminar y lograr el efecto de peinado que quieres, aplica el Leave In. Hay diferentes opciones:
 
-* _Lait de soie :_ para suavizar y disciplinar 
-* _Eau de vagues : _para ondas surferas 
+* _Lait de soie:_ para suavizar y disciplinar 
+* Eau de vagues: para ondas surferas 
 * _Crème de boucles_: para definir rizos 
 
 \*cuidado en casa 
 
-![](/img/uploads/kerastase4.jpg)
+![null](/img/uploads/kerastase4.jpg)
 
 Así que ya sabes, cuidar de tu cabello naturalmente obteniendo los resultados que buscas es posible con el lujo de Kerastase  . Acude a tu sucursal de preferencia para un diagnóstico sin costo.
