@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cuidado Natural de tu Cabello con Aura Botánica '
-categories: 'tratamientos, cuidado del cabello , rituales en salón'
+categories: ''
 ---
 ![aura botánica, kerastase, natural hair, hair, natural care ](/img/uploads/aurabotanica.jpg)
 
