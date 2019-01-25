@@ -32,4 +32,4 @@ A pesar de que esta técnica no exige  frecuentes visitas al salón tras aplicad
 
 ¿Qué te parece la propuesta? ¿te latió la idea?
 
-Visita tu salón Bisuza se ya y REINVENTA tu tonalidad!
+Visita tu salón Bisuza de ya y REINVENTA tu tonalidad!
