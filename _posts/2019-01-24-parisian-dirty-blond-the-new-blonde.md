@@ -4,7 +4,7 @@ title: 'Parisian Dirty Blond! The New Blonde '
 ---
 ![parisian blond , loreal pro , blonde , rubio , dirty blond, rubio](/img/uploads/parisianblonde2.jpg)
 
-LA tendencia en coloración que triunfa este año se llama Parisian Blond en su versión_ Dirty. _
+LA tendencia en coloración que triunfa este año se llama Parisian Blond en su versión Dirty. 
 
 ![rubio , parisian blonde, blondes , dirty blonde , coloración](/img/uploads/parisian1.jpg)
 
