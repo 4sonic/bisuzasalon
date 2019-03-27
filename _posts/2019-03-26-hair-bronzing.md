@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'La Tendencia en Coloración de este Verano 2019 : Hair Bronzing '
+title: 'Le Hair Bronzing : la tendencia en coloración de este Verano 19'
 ---
 Esta Primavera Verano 2019 lo último en tendencias de coloración es dar a tu cabello un efecto bronceado ! 
 
