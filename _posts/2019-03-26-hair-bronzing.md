@@ -8,6 +8,16 @@ Esta Primavera Verano 2019 lo último en tendencias de coloración es dar a tu c
 
 Loreal Pro cuenta con la gama de tonos para lograr este efecto inspirado en  la luminosidad y brillo de un maquillaje bronce y conseguir en tu cabello  reflejos bronce. 
 
-![Loreal Pro](/img/uploads/quote-bloc-3.jpg) ![](/img/uploads/bronzecuadrada1.jpg) ![](/img/uploads/bronzecuadarada4.jpg) ![null](/img/uploads/bronzecuadrada.jpg) ![null](/img/uploads/bronzecuadrada3.jpg) 
+![Loreal Pro](/img/uploads/quote-bloc-3.jpg) 
+
+![@arunyaguillot](/img/uploads/bronze.jpg)
+
+![Josephine Skriver](/img/uploads/bronze5.jpg)
+
+![](/img/uploads/fallout-for-that-bronze-deep-shades-ideas-2019.jpg)
+
+![@liniikennedy](/img/uploads/bronzeotra.jpg)
+
+Fuentes: @arunyaguillot, @liniikennedy , @josephineskriver , lorealprofessionnel.es
 
 ¡Acude con tu estilista en Bisuza para un look bicolor súper sofisticado con esta tendencia!
