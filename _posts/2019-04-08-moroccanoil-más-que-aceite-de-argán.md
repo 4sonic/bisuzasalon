@@ -2,7 +2,7 @@
 layout: post
 title: 'Moroccanoil : Más que Aceite de Argán '
 ---
-![null](/img/uploads/colormoroccan.jpg)
+![null](/img/uploads/moroccancolor.jpg)
 
 Desde hace mucho tiempo Moroccanoil se ha distinguido por sacar lo mejor del aceite de argán tanto para hidratar, suavizar y reparar el cabello y también la piel. Sus, ácidos grasos esenciales y vitamina le devuelven la elasticidad y brillo al cabello pues es a su vez un antioxidante, protector uv, y neutralizador de radicales libres. Además las fórmulas de los tratamientos de esta marca son libres de sulfatos y parabenos. 
 
