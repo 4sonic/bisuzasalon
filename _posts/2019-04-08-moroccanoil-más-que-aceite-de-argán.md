@@ -18,7 +18,7 @@ En el diagnóstico de Moroccanoil te pueden ayudar a definir el tratamiento de a
 
 ![null](/img/uploads/moroccanoil-hydration-eduardosouto1.jpg)
 
-**Para cabello con daños o que ha pasado por coloraciones o decoloraciones: **además de aportar el aceite de argán , también contiene queratina reconstructiva y ácidos grasos que reparan las puntas quebradas  y hebras sin vida devolviéndoles su elasticidad.
+**Para cabello con daños o que ha pasado por coloraciones o decoloraciones: **el tratamiento reparador es ideal , ya que además de aportar el aceite de argán , también contiene queratina reconstructiva y ácidos grasos que reparan las puntas quebradas  y hebras sin vida devolviéndoles su elasticidad.
 
 ![null](/img/uploads/reparacion.jpg)
 
