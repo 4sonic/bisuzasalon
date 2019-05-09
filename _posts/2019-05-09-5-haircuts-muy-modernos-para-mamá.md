@@ -16,7 +16,7 @@ Un look muy fresco que con flequillo cortina va muy bien. En rostros triangulare
 
 ![null](/img/uploads/messywavylook.jpg)
 
-**3. Midi Bob**
+**3.      Midi Bob**
 
 Un tipo de corte que queda con rostros angulosos y ovalados. Puede ir texturizado para mayor dinamismo y movimiento y agregando sutiles highlights lucirá muy sofisticado y chic.
 
