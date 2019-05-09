@@ -10,8 +10,6 @@ Para quienes gustan de llevar el cabello corto y ultra moderno , este look puede
 
 ![null](/img/uploads/siennamiller.jpg)
 
-
-
 **2. Messy Wavy Bob** 
 
 Un look muy fresco que con flequillo cortina va muy bien. En rostros triangulares puede llevarse con partido en medio para dar balance al rostro. Nos encanta como luce en January Jones. 
@@ -25,8 +23,6 @@ Un look muy fresco que con flequillo cortina va muy bien. En rostros triangulare
 Un tipo de corte que queda con rostros angulosos y ovalados. Puede ir texturizado para mayor dinamismo y movimiento y agregando sutiles highlights lucirá muy sofisticado y chic.
 
 ![null](/img/uploads/el_corte_de_pelo_de_victoria_beckham_8381_620x.jpg)
-
-
 
 **4. Blunt Bob** 
 
