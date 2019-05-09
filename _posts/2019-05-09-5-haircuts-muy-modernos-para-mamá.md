@@ -18,7 +18,7 @@ Un look muy fresco que con flequillo cortina va muy bien. En rostros triangulare
 
 
 
-**3. Midi Bob **
+**3.Midi Bob **
 
 Un tipo de corte que queda con rostros angulosos y ovalados. Puede ir texturizado para mayor dinamismo y movimiento y agregando sutiles highlights lucirá muy sofisticado y chic.
 
@@ -32,7 +32,7 @@ Un tipo de corte que queda con rostros angulosos y ovalados. Puede ir texturizad
 
 
 
-**5. Bob Angular **
+**5.Bob Angular **
 
 Un tipo de corte audaz que no pasa desapercibido y como su nombre lo dice va muy bien con rostros cuadrados ya que al ir angulado , como su nombre lo indica en la parte del mentón ayuda a suavizar el contorno. También en rostros ovalados como el de Katie Holmes puede llevarse a la perfección.
 
