@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ' Power Mix : El Cocktail más personalizado para tu cabello '
+title: ' Power Mix : El Cocktail más personalizado '
 ---
 ![](/img/uploads/resulthair_serieexpert_powermix.jpg)
 
