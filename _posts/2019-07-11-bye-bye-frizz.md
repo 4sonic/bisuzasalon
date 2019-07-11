@@ -22,14 +22,15 @@ Este tratamiento de suavizado es originario de Brasil y utiliza ingredientes aut
 
 **Ventajas**
 
-1. No necesitas tantos cuidados post- aplicación. 
-2. Facilita el peinado tras ser aplicado.  
-3. Puedes elegir el resultado que quieres lograr, ya sea eliminar frizz  y relajar el cabello conservando tus ondas o un liso más concreto. 
-4. Es muy seguro pues cumple con las estrictas normas de sanidad de Estados Unidos, por lo que puedes estar segura de que no corres un riesgo. 
+No necesitas tantos cuidados post- aplicación. 
 
-**Duración aprox**
+Facilita el peinado tras ser aplicado.  
 
-** **12 semanas
+Puedes elegir el resultado que quieres lograr, ya sea eliminar frizz  y relajar el cabello conservando tus ondas o un liso más concreto. 
+
+Es muy seguro pues cumple con las estrictas normas de sanidad de Estados Unidos, por lo que puedes estar segura de que no corres un riesgo. 
+
+**Duración aprox: **12 semanas
 
 ![null](/img/uploads/brasilianblowout.jpg)
 
@@ -41,14 +42,15 @@ Elaborado con Queratina que permite la reconstrucción de la fibra dejando el ca
 
 **Ventajas**
 
-1. Alisa  cabello con alto volumen, frizz, cabellos rizados u ondulados y permite personalizar el resultado para conservar las ondas.
-2. Mantiene el movimiento del cabello
-3. Reduce el volumen tras eliminar el frizz
-4. No es agresivo y no modifica la estructura de la fibra capilar
+Alisa  cabello con alto volumen, frizz, cabellos rizados u ondulados y permite personalizar el resultado para conservar las ondas.
 
-**Duración aprox**
+Mantiene el movimiento del cabello
 
-Hasta 3 semanas 
+Reduce el volumen tras eliminar el frizz
+
+No es agresivo y no modifica la estructura de la fibra capilar
+
+**Duración aprox: **Hasta 3 semanas 
 
 ![null](/img/uploads/brasilcacau.jpg)
 
@@ -60,13 +62,13 @@ Tanto el tratamiento en salón como los productos de cuidado en casa están enri
 
 **Ventajas**
 
-1. Mejora y mantiene la hidratación del pelo
-2. Fortalece la estructura del cabello
-3. Aporta Brillo y Suavidad 
+Mejora y mantiene la hidratación del pelo
 
-**Duración aprox **
+Fortalece la estructura del cabello
 
-Hasta 4 días
+Aporta Brillo y Suavidad 
+
+**Duración aprox: **Hasta 4 días
 
 ![null](/img/uploads/lissunlimited.jpg)
 
@@ -78,14 +80,15 @@ Su acción alisante esta garantizada por la Cisteamina, que es una amina que des
 
 **Ventajas**
 
-1. Es sumamente natural no contiene nada de amoniaco, formol o tioglicolico.
-2. Su acción no modifica la estructura de la fibra capilar
-3. Nutre a profundidad, alisa y relaja el cabello permitiendo conservar su forma
-4. La fibra capilar queda protegida contra daños externos
+Es sumamente natural no contiene nada de amoniaco, formol o tioglicolico.
 
-**Duración aprox**
+Su acción no modifica la estructura de la fibra capilar
 
-2 meses 
+Nutre a profundidad, alisa y relaja el cabello permitiendo conservar su forma
+
+La fibra capilar queda protegida contra daños externos
+
+**Duración aprox: **2 meses 
 
 ![null](/img/uploads/bizenza.jpg)
 
