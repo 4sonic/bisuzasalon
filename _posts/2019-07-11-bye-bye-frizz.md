@@ -10,7 +10,7 @@ Por eso JULIO está dedicado a ellas y a que TÚ puedas decir BYE BYE FRIZZ!
 
 Aquí te presentamos los increíbles tratamientos que BISUZA SALÓN tiene para que puedas encontrar la salida al molesto cabello encrespado:
 
-![](/img/uploads/byefrizz.jpg)
+![null](/img/uploads/byefrizz.jpg)
 
 **BRAZILIAN BLOWOUT**
 
@@ -29,25 +29,26 @@ Este tratamiento de suavizado es originario de Brasil y utiliza ingredientes aut
 
 **Duración aprox: **12 semanas
 
-![](/img/uploads/brasilianblowout.jpg)
+![null](/img/uploads/brasilianblowout.jpg)
 
-![](/img/uploads/antesydespuesok.jpg)
+![null](/img/uploads/antesydespuesok.jpg)
 
 **BRASIL CACAU **
 
 Elaborado con Queratina que permite la reconstrucción de la fibra dejando el cabello más brillante y con la cutícula alineada. Así mismo contiene cacao que es un poderoso antioxidante protector del color y brillo , así como ácido acético que promueve el liso y la disciplina del cabello. Su D-Pantenol repara el cabello, minimiza la formación de puntas deshidratadas, contribuye a la flexibilidad, elasticidad y brillo del cabello.
 
-1. **Ventajas:**
-2. Alisa  cabello con alto volumen, frizz, cabellos rizados u ondulados y permite personalizar el resultado para conservar las ondas.
-3. Mantiene el movimiento del cabello
-4. Reduce el volumen tras eliminar el frizz
-5. No es agresivo y no modifica la estructura de la fibra capilar
+**Ventajas:**
+
+1. Alisa  cabello con alto volumen, frizz, cabellos rizados u ondulados y permite personalizar el resultado para conservar las ondas.
+2. Mantiene el movimiento del cabello
+3. Reduce el volumen tras eliminar el frizz
+4. No es agresivo y no modifica la estructura de la fibra capilar
 
 **Duración aprox : **Hasta 3 semanas 
 
-![](/img/uploads/brasilcacau.jpg)
+![null](/img/uploads/brasilcacau.jpg)
 
-![](/img/uploads/antesydespuesbrasilcacau.jpg)
+![null](/img/uploads/antesydespuesbrasilcacau.jpg)
 
 **LISS UNLIMITED LOREAL PRO**
 
@@ -61,9 +62,7 @@ Tanto el tratamiento en salón como los productos de cuidado en casa están enri
 
 **Duración aprox :** Hasta 4 días
 
-![](/img/uploads/lissunlimited.jpg)
-
-
+![null](/img/uploads/lissunlimited.jpg)
 
 **BIZENZA **
 
@@ -80,9 +79,9 @@ Su acción alisante esta garantizada por la Cisteamina, que es una amina que des
 
 **Duración aprox :** 2 meses 
 
-![](/img/uploads/bizenza.jpg)
+![null](/img/uploads/bizenza.jpg)
 
-![](/img/uploads/antesydespuesbizenza.jpg)
+![null](/img/uploads/antesydespuesbizenza.jpg)
 
 Como te mencionamos, Julio es el Mes del Anti Frizz , así que aprovecha que tenemos promociones sumamente atractivas!!!
 
