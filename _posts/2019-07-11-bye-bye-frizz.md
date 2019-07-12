@@ -30,7 +30,7 @@ Puedes elegir el resultado que quieres lograr, ya sea eliminar frizz  y relajar 
 
 Es muy seguro pues cumple con las estrictas normas de sanidad de Estados Unidos, por lo que puedes estar segura de que no corres un riesgo. 
 
-**Duración aprox: **12 semanas
+**Duración aprox: **hasta 3 meses 
 
 ![null](/img/uploads/brasilianblowout.jpg)
 
@@ -50,7 +50,7 @@ Reduce el volumen tras eliminar el frizz
 
 No es agresivo y no modifica la estructura de la fibra capilar
 
-**Duración aprox: **Hasta 3 semanas 
+**Duración aprox: **Hasta 3 meses 
 
 ![null](/img/uploads/brasilcacau.jpg)
 
