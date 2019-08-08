@@ -20,7 +20,7 @@ Los procesos tales como las decoloraciones en el cabello y el no llevar una ruti
 
 ![](/img/uploads/tip4.jpg)
 
-**4. Evita cepillar el cabello cuando está muy mojado **pues esto puede acrecentar las puntas abiertas. En todo caso usa un cepillo con cerdas naturales y grandes y cepilla suavemente para desenredar tras el acondicionador
+**4. Evita cepillar el cabello cuando está muy mojado **pues esto puede acrecentar las puntas abiertas. En todo caso usa un cepillo con cerdas naturales y grandes y cepilla suavemente para desenredar tras el acondicionador.
 
 ![null](/img/uploads/cepillado.jpg)
 
