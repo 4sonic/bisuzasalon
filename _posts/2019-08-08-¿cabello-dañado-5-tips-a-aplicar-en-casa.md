@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '¿Cabello dañado? 5 tips a aplicar en casa '
+title: '¿Cabello dañado? 5 tips '
 ---
 ![](/img/uploads/cabellodañado.jpg)
 
