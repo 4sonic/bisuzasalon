@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ¿Cabello dañado? 5 tips para cuidarlo
+title: 5 Tips para evitar el cabello dañado
 ---
 ![](/img/uploads/cabellodañado1.jpg)
 
