@@ -6,7 +6,7 @@ Se va el Verano , llega la temporada de tonalidades cálidas, nuevamente retomam
 
 **1.Chocolate Brown Copper Hair:** La opción preferida para coloración de Otoño pues es un todo que además de aportar calidez y ayuda a dar la apariencia de mayor brillo y volumen sobretodo si tu cabello es fino y apagado. Ya sea con reflejos rojizos o cobrizos luce genial para esta temporada! También se está hablando mucho de una nueva tonalidad,  el _Chai Latte Hair_ , que combina highlights en tono crema y lowlights en tonos canela. Mantén el brillo de tu castaño con _sérum Liss Control Plus_ de _Tecni.art L'Oréal Pro._
 
-![null](/img/uploads/copper4.jpg)
+![](/img/uploads/68f6ef7c4f6c8881de04d58b07820534.jpg)
 
 ![null](/img/uploads/copper1.jpg)
 
