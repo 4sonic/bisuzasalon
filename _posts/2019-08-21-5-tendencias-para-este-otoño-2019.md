@@ -4,9 +4,11 @@ title: '5 Tendencias para este Otoño 2019 '
 ---
 Se va el Verano , llega la temporada de tonalidades cálidas, nuevamente retomamos las fiestas y el maquillaje de noche y al bajar la temperatura, quizá haya quienes se olviden del cabello corto dando la bienvenida a una media o larga melena con más textura y volumen. Aquí enlistamos algunas de las tendencias que estarán muy presentes en esta romántica estación del año. 
 
+![](/img/uploads/7ffbac85ca4a9f8fc3462cf43c43fd09.jpg)
+
 **1.Chocolate Brown Copper Hair:** La opción preferida para coloración de Otoño pues es un todo que además de aportar calidez y ayuda a dar la apariencia de mayor brillo y volumen sobretodo si tu cabello es fino y apagado. Ya sea con reflejos rojizos o cobrizos luce genial para esta temporada! También se está hablando mucho de una nueva tonalidad,  el _Chai Latte Hair_ , que combina highlights en tono crema y lowlights en tonos canela. Mantén el brillo de tu castaño con _sérum Liss Control Plus_ de _Tecni.art L'Oréal Pro._
 
-![](/img/uploads/68f6ef7c4f6c8881de04d58b07820534.jpg)
+![null](/img/uploads/68f6ef7c4f6c8881de04d58b07820534.jpg)
 
 ![null](/img/uploads/copper1.jpg)
 
