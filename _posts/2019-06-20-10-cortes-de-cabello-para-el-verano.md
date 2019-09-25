@@ -8,7 +8,7 @@ Llegó el Verano y para hacer frente al calor y la humedad quizá quieras llevar
 
 **1.Short Bob a la altura de la mandíbula: **uno de los cortes del momento que lucirá muy bien ya sea con partido al centro o con el cabello llevado hacia atrás. Se recomienda más para cabello fino
 
-![null](/img/uploads/microbob.jpg)
+![null](/img/uploads/shortbob.jpg)
 
 **2.French Bob : **un clásico si amas el estilo parisino y el feeling vintage de los años 20's.
 
