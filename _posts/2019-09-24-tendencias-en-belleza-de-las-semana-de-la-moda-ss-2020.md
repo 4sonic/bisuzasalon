@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tendencias en Belleza de las Semana de la Moda SS 2020
+title: Tendencias en Belleza de las Semanas de la Moda SS 2020
 ---
 Septiembre es el mes de las semanas de la moda y no podemos dejarlo pasar . Nos llenamos de inspiración no sólo de toda la variedad de propuestas de la moda sino también en maquillaje y peinados. Aquí 10 tendencias que nos ha dejado esta temporada desde NYC hasta París. Hemos visto mucha alusión a los años 70s y 80s con una reivindicación hacia la individualidad. Combinaciones variadas de colores y texturas lo cual también ha sido llevado al maquillaje. En cuanto a los hair looks, el wet look se hace presente tanto en sueltos, coletas, nudos y trenzas:
 
