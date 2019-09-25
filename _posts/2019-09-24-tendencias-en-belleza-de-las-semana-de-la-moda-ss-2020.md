@@ -4,7 +4,7 @@ title: 10 Tendencias en Belleza de las Semanas de la Moda SS 2020
 ---
 Septiembre es el mes de las semanas de la moda y no podemos dejarlo pasar . Nos llenamos de inspiración no sólo de toda la variedad de propuestas de la moda sino también en maquillaje y peinados. Aquí 10 tendencias que nos ha dejado esta temporada desde NYC hasta París. Hemos visto mucha alusión a los años 70s y 80s con una reivindicación hacia la individualidad. Combinaciones variadas de colores y texturas lo cual también ha sido llevado al maquillaje. En cuanto a los hair looks, el wet look se hace presente tanto en sueltos, coletas, nudos y trenzas:
 
-![](/img/uploads/portadillafw.jpg)
+![null](/img/uploads/portadillafw.jpg)
 
 **1.Labios ultra oscuros: **_Max Mara_ es una de las firmas que apostó por presentarlo así en su propuesta inspirada en la mujer trabajadora y empoderada con looks de los 80s , que recordaban a Melanie Griffith en su papel en _The Working Girl_. 
 
@@ -52,7 +52,7 @@ Septiembre es el mes de las semanas de la moda y no podemos dejarlo pasar . Nos 
 
 ![null](/img/uploads/wetlook1.jpg)
 
-![null](/img/uploads/wetlook2.jpg)
+![null](/img/uploads/wetlook.jpg)
 
 **8. Sombras camel y marrón: **Tanto en looks elegantes, contrastado con labios rojos, o looks monocromáticos los tonos marrones, camel o nude son los tonos del momento.
 
