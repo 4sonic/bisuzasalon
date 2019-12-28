@@ -2,7 +2,7 @@
 layout: post
 title: Metas para tu Cabello este 2020
 ---
-![](/img/uploads/greathair.jpg)
+![](/img/uploads/hairgoals.jpg)
 
 Llega el cambio de década y aunque hay un listado enorme de prioridades a considerar para lograr cambios profundos en nuestras vidas, el cuidado de nuestra belleza y cabello nunca puede quedar de lado. Nos centraremos en las metas para la belleza de tu cabello.
 
