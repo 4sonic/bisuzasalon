@@ -14,9 +14,17 @@ Aunque muchos recomienden cortarlas , lo mejor es lograr sellarlas e hidratarlas
 
 Existen productos excepcionales para reparar puntas como el tratamiento de Moroccanoil , el serum de absolut repair que reconstruye la fibra interna dejando la superficie protegida. Si lo que se requiere es una solución más a profundidad , el ritual de la línea Résistance  ayuda a reconstruir la estructura interna del cabello debilitado propenso a quiebre y puntas abiertas. 
 
+![](/img/uploads/puntasquebradas.jpg)
+
+![](/img/uploads/morocan.jpg)
+
 **2.Mejorar la salud capilar de mi cabello**
 
 Uno de los factores que determina la salud capilar es la alimentación , no obstante pueden influir otras causas como la higiene capilar, la genética, entre otras.  La irrupción de algún elemento en el cuero cabelludo que afecte el ecosistema bacteriano que lo mantiene en equilibrio puede producir caspa. Así mismo el estrés, las hormonas, el exceso de grasa en el cuero cabelludo o problemas del sistema inmunológico pueden causar dermatitis seborréica entre otras afecciones. Afortunadamente existen soluciones como Nioxin que ayudan lograr el equilibrio en el cuero cabelludo para conseguir una cabellera más saludable, densa y fortalecida. No dudes en acudir a un diagnóstico si detectas alguna problemática en tu cuero cabelludo y te ayudaremos a solucionarlo!
+
+![](/img/uploads/nioxin.jpg)
+
+
 
 **3.Utilizar productos naturales de cuidado para el cabello**
 
@@ -25,6 +33,8 @@ Una de las tendencias de este 2020 a nivel general es la desintoxicación , tant
 Existen varias opciones en Bisuza que te ayudarán a cumplir esta meta.
 
 Una de ellas, Aura Botánica de Kerastase compuesta por productos de origen natural  e ingredientes de uso responsable como los aceites de coco y argán que aportarán brillo natural y nutrición a tu cabello.
+
+![](/img/uploads/aurabotanica1.jpg)
 
 **4.Atreverme a un cambio radical**
 
@@ -36,6 +46,14 @@ Vitamino Color by Loreal Pro es una de las líneas de tratamiento recomendadas p
 
 No obstante lo ideal será que uno de nuestros especialistas en color te valore y sugiera la opción más adecuada a tu tipo de cabello, deseo y necesidad.
 
+![](/img/uploads/platinumblonde.jpg)
+
+![](/img/uploads/blondeabsolu.jpg)
+
+![](/img/uploads/vitaminocolor1.jpg)
+
+
+
 **5.Conseguir una melena más fuerte **
 
 Factores como el estrés , una dieta baja en vitaminas y proteínas, los decolorantes, el abuso del uso de acondicionadores, la falta de hidratación, el uso excesivo de herramientas a base de calor entre otros factores debilitan considerablemente el cabello. Las recomendaciones básicas son , mejorar tu higiene de sueño , buscar alternativas relajantes como yoga, salir a caminar o correr, enriquecer tu dieta con vitaminas A y B, cereales de grano entero, espinacas, proteínas, alimentos ricos en omega 3 y minerales como el  zinc entre otras alternativas te ayudarán a fortalecerlo. 
@@ -43,5 +61,11 @@ Factores como el estrés , una dieta baja en vitaminas y proteínas, los decolor
 Si tienes el cabello fino y débil prefiere el secado al natural o sin ser agresivo mediante el uso de un difusor. Así mismo evita cepillar fuertemente cuando está mojado el cabello y aplicar dos a tres veces por semana mascarillas y aceites nocturnos para nutrirlo mientras duermes.
 
 La línea de tratamiento Extreme by Redken es una de las opciones para recuperar la fuerza gracias a su exclusivo sistema personalizado RCT Protein Complex que aporta los tres niveles de nutrición que tu cabello necesita. 
+
+![](/img/uploads/cabellosaludable.jpg)
+
+![](/img/uploads/fuerzaredken.jpg)
+
+
 
 Este 6 de Enero del 2020 estaremos de vuelta para que nos visites en tu sucursal de preferencia e inicies bien el año con cabellera Renovada.
