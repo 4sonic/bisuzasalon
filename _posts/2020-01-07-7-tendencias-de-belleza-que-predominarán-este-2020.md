@@ -2,7 +2,7 @@
 layout: post
 title: '10 tendencias de belleza que predominarán este 2020 '
 ---
-![](/img/uploads/trendalert.jpg)
+![](/img/uploads/maquillaje.jpg)
 
 Llegó una nueva década y las nuevas tendencias no solo se ven marcadas por las pasarelas o el street style sino también con nuevos discursos que reinventan estéticas , algunas ligadas al glamour de décadas pasadas como los 80's o 90's , otras a la convicción de volver a las bases priorizando el cuidado de la piel y el cabello con productos de belleza más naturales y sustentables. Tendencias van y vuelven , pero estas que enlistamos aquí estarán muy presentes este año: 
 
