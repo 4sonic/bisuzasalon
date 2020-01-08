@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '7 tendencias de belleza que predominarán este 2020 '
+title: '10 tendencias de belleza que predominarán este 2020 '
 ---
 ![](/img/uploads/trendalert.jpg)
 
