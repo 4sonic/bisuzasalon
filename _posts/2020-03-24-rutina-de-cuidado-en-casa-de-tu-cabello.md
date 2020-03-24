@@ -2,7 +2,7 @@
 layout: post
 title: Rutina de Cuidado en Casa de tu Cabello
 ---
-![null](/img/uploads/lazyhair-copia.jpg)
+![null](/img/uploads/lazyhair.jpg)
 
 
 
