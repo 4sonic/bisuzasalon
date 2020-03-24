@@ -2,7 +2,9 @@
 layout: post
 title: Rutina de Cuidado en Casa de tu Cabello
 ---
-![null](/img/uploads/lazyhair.jpg)
+![null](/img/uploads/lazyhair-copia.jpg)
+
+
 
 Son días "Lazy Hair" pero no por ello dejemos de cuidarlo. Aquí te damos algunos tips para el ritual de mantenimiento en casa de tu cabello que aprovechando el cese de actividades públicas, puedes hacerlo con calma y darle su debido respiro y chiqueo:
 
