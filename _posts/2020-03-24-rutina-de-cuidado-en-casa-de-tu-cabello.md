@@ -28,7 +28,7 @@ Es el aliado perfecto para ayudar a desenredar, suavizar y nutrir a la vez, por 
 
 Si tu cabello tiende a resecarse puedes usar un suero nutritivo por las noches en puntas y así lo mantendrás suave después de lavar el día posterior. Si lo tienes graso, puedes aplicar tu mascarilla nutritiva mechón a mechón de medios a puntas o crema de peinar una vez de la semana dejando actuar. 
 
-![]()
+![](/img/uploads/hidratación.jpg)
 
 **3. Cepillado:**
 
@@ -42,7 +42,7 @@ Si tienes el cabello corto , el cepillo tipo esqueleto es mejor para cabello cor
 
 Tomar algunas medidas como no cepillar el cabello cuando esté mojado, evitar dormir con el cabello recogido e hidratar las puntas te ayudarán a evitar el troce del cabello.
 
-
+![](/img/uploads/fuerza.jpg)
 
 **5.Secado:**
 
