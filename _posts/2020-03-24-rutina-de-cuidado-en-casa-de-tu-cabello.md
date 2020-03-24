@@ -8,11 +8,11 @@ Sí , son días "Lazy Hair" pero no por ello dejemos de cuidarlo. Aquí te damos
 
 **1.Lavado del Cabello :**
 
-Estos días de estar en casa deja descansar tu cabello y no laves a diario puedes lavar un día sí y un día no con un shampoo que respete el ph de tu cuero cabelludo y de preferencia libre de sulfatos.
+Estos días de estar en casa deja descansar tu cabello y no laves a diario; puedes lavar un día sí y un día no con un shampoo que respete el ph de tu cuero cabelludo y de preferencia libre de sulfatos y siliconas.
 
 La limpieza de tu cabello es mejor con agua tibia, ya que el agua muy caliente reseca el cuero cabelludo. Evita frotar demasiado tu cuero cabelludo, hazlo suavemente ya que al presionar fuerte puede desequilibrar las glándulas sebáceas y retirar aceites de la superficie lo cual provocaría sobre estimulación de sebo en la piel para mantener el equilibrio natural . 
 
-![](/img/uploads/lavadodelcabello.jpg)
+![null](/img/uploads/lavadodelcabello.jpg)
 
 **Shampoo:**
 
@@ -28,27 +28,27 @@ Es el aliado perfecto para ayudar a desenredar, suavizar y nutrir a la vez, por 
 
 Si tu cabello tiende a resecarse puedes usar un suero nutritivo por las noches en puntas y así lo mantendrás suave después de lavar el día posterior. Si lo tienes graso, puedes aplicar tu mascarilla nutritiva mechón a mechón de medios a puntas o crema de peinar una vez de la semana dejando actuar. 
 
-![](/img/uploads/hidratación.jpg)
+![null](/img/uploads/hidratación.jpg)
 
 **3. Cepillado:**
 
-Es una manera de repartir el sebo del cuero cabelludo a puntas, lo cual ayudará a su hidratación. Dependiendo tu tipo de cabello es como debes cepillarlo. Si tu cabello tiende a ser crespo y a enredarse puedes utilizar las manos o un peine de púas anchas ayudándote con el acondicionador o la mascarilla para evitar que se troce, conseguir más brillo y suavidad. 
+Es una manera de repartir la grasa del cuero cabelludo a puntas, lo cual ayudará a su hidratación y evitará su acumulación en un solo lugar. Dependiendo tu tipo de cabello es como debes cepillarlo. Si tu cabello tiende a ser crespo y a enredarse puedes utilizar las manos o un peine de púas anchas ayudándote con el acondicionador o la mascarilla para evitar que se troce, conseguir más brillo y suavidad. 
 
 Si tienes el cabello corto , el cepillo tipo esqueleto es mejor para cabello corto. Para cabello largo y abundante el cepillo tipo paleta es ideal. Los cepillos de cerdas naturales ayudan a retirar piel muerta y a distribuir los aceites naturales del cuero cabelludo sin maltratar. Existen también cepillos especiales para cabello muy fino, la clave está en elegir el cepillo y técnica adecuada.
 
-![](/img/uploads/cepillado1.jpg)
+![null](/img/uploads/cepillado1.jpg)
 
 **4. Fuerza y resistencia:**
 
 Tomar algunas medidas como no cepillar el cabello cuando esté mojado, evitar dormir con el cabello recogido e hidratar las puntas te ayudarán a evitar el troce del cabello.
 
-![](/img/uploads/fuerza.jpg)
+![null](/img/uploads/fuerza.jpg)
 
 **5.Secado:**
 
-Es el momento de dar un respiro a tu cabello! Déjalo suelto y deja secarlo naturalmente sin uso de herramientas.
+Es el momento de dar un respiro a tu cabello del calor! Déjalo suelto y deja secarlo naturalmente sin uso de herramientas.
 
-![](/img/uploads/secado.jpg)
+![null](/img/uploads/secado.jpg)
 
 Estamos para asesorarte sobre cualquier duda que tengas para cuidar mejor de tu cabello en casa!
 
