@@ -2,7 +2,7 @@
 layout: post
 title: Rutina de Cuidado en Casa de tu Cabello
 ---
-![](/img/uploads/lazyhair.jpg)
+![null](/img/uploads/lazyhair.jpg)
 
 Sí , son días "Lazy Hair" pero no por ello dejemos de cuidarlo. Aquí te damos algunos tips para el ritual de mantenimiento en casa de tu cabello que aprovechando el cese de actividades públicas, puedes hacerlo con calma y darle su debido respiro y chiqueo:
 
@@ -11,6 +11,8 @@ Sí , son días "Lazy Hair" pero no por ello dejemos de cuidarlo. Aquí te damos
 Estos días de estar en casa deja descansar tu cabello y no laves a diario puedes lavar un día sí y un día no con un shampoo que respete el ph de tu cuero cabelludo y de preferencia libre de sulfatos.
 
 La limpieza de tu cabello es mejor con agua tibia, ya que el agua muy caliente reseca el cuero cabelludo. Evita frotar demasiado tu cuero cabelludo, hazlo suavemente ya que al presionar fuerte puede desequilibrar las glándulas sebáceas y retirar aceites de la superficie lo cual provocaría sobre estimulación de sebo en la piel para mantener el equilibrio natural . 
+
+
 
 **Shampoo:**
 
