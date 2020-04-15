@@ -8,7 +8,7 @@ Los días de fiesta regresarán y mientras tanto lo mejor que podemos hacer es c
 
 Tal vez llegue la ansiedad de querer hacerle un nuevo corte o retoque , pero lo ideal es cuidarla con el producto adecuado y peinarlo relajadamente sin perder el estilo que te gusta aún en casa.
 
-Aquí 10 peinados con los que tu cabello se sentirá libre y saludable sin tener que apretar con una liga o accesorio que pueda trozarlo o maltratarlo:
+Aquí 10 peinados con los que tu cabello se sentirá libre y saludable sin tener que usar algún accesorio que pueda trozarlo o maltratarlo:
 
 ![](/img/uploads/postcabello.jpg)
 
