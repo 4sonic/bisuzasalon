@@ -40,7 +40,7 @@ pic vía cutypaste.com
 
 ![null](/img/uploads/liston.jpg)
 
-**4.Easy Braids: **Una trenza floja siempre será la mejor aliada para estar en casa y si tienes tu cabello muy rizado o crespo, te ayudará disciplinarlo.
+**4.Easy Braids: **Una trenza floja siempre será la mejor aliada para estar en casa y si tienes tu cabello ondulado, rizado o crespo, te ayudará disciplinarlo.
 
 ![null](/img/uploads/trenzas.jpg)
 
@@ -60,7 +60,7 @@ vía elle.es
 
 vía napoleonfour
 
-**5. Hair bands: **Son chics y perfectas para temporada primaveral. No importa que estés en casa , innova peinados con ellas, tapa tus raíces que no has podido retocar. 
+**5. Hair bands: **Son chics y perfectas para temporada primaveral. No importa que estés en casa , innova peinados con ellas, tapa tus raíces que no has podido retocar, combínalas con tu ropa .
 
 ![null](/img/uploads/coletamascada.jpg)
 
@@ -72,7 +72,7 @@ vía okchicas
 
 vía beneconnoi.com
 
-**6. Side hair barrette: **Ideal si te encanta traerlo suelto pero tienes unos cabellos que ya crecieron y no logras acomodar.
+**6. Side hair bobby pins : **si no logras acomodar el fleco o algunos cabellos que ya crecieron de más y quieres llevarlo suelto , puedes recogerlos un poco detrás de la oreja con pasadores o ayudándote con un broche que no apriete o maltrate.  
 
 ![null](/img/uploads/peinadorecogido.jpg)
 
@@ -80,7 +80,7 @@ vía stylelovely.com
 
 ![null](/img/uploads/sidehairbarrettes.jpg)
 
-**7. Hair Scrunchies: **Este accesorio noventero nos transporta a la nostalgia de buenos tiempos del pasado y además es muy gentil con tu cabello pues no lo aprieta.
+**7. Hair Scrunchies: **Este accesorio noventero nos transporta a la nostalgia de buenos tiempos del pasado y además es muy gentil con tu cabello.
 
 ![null](/img/uploads/scrunchie.jpg)
 
@@ -90,7 +90,7 @@ vía magazinefeed.me
 
 vía stylelovely
 
-**9.Low Knot: **otra manera de** **recoger tu cabello entrelazando a maneara de un nudo holgado los mechones; otro de los favoritos de quienes aman el effortless look.
+**9.Low Knot: **otra manera de** **recoger tu cabello entrelazando los mechones a manera de un nudo; otro de los favoritos de quienes aman el effortless look.
 
 ![null](/img/uploads/nudo.jpg)
 
@@ -100,7 +100,7 @@ vía elle.es
 
 vía valerialipovetsky
 
-**10. Unfinished ponytail: **el peinado con intención que parece no tenerla ; solo tienes que enrollar el cabello como si fueras a hacerte una coleta, y lo dejas a medias. Un peinado que saca del apuro sobre todo si sientes que tu cabello ya perdió forma y no luce tan estiloso en una coleta.
+**10. Unfinished ponytail: **el peinado con intención que parece no tenerla ; solo tienes que enrollar el cabello como si fueras a hacerte una coleta, y lo dejas a medias; saca del apuro sobre todo si sientes que tu cabello ya perdió forma.
 
 ![null](/img/uploads/unfinishedponytail.jpg)
 
@@ -114,6 +114,6 @@ Por último, simplemente puedes dejarlo suelto al natural y aplicar tu crema de 
 
 vía therighthairstyles
 
-Contamos con Delivery de productos de cuidado en casa de marcas como Kerastase, L'Oréal Pro, Balmain, Moroccanoil, entre otras. De requerir alguno no dudes en contactarnos para hacer tu pedido o solicitar un diagnóstico en línea y recomendarte lo que tu cabello necesite.
+Contamos con Delivery de productos de cuidado en casa de marcas como Kerastase, L'Oréal Pro, Balmain, Moroccanoil, Redken, Nioxin entre otras. De requerir alguno no dudes en contactarnos para hacer tu pedido o solicitar un diagnóstico en línea y recomendarte lo que tu cabello necesite.
 
 Nos vemos pronto
