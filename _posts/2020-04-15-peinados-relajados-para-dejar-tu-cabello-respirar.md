@@ -32,7 +32,7 @@ vía eslamoda.com
 
 vía thebeautydepartment
 
-**3. Loose ponytail: **Las coletas flojas son ideales para estar cómoda en casa y darle un respiro al cabello la vez; puedes amarrar con un listón sin apretar en lugar de liga.
+**3. Loose ponytail: **Las coletas flojas son ideales para estar cómoda en casa y darle un respiro al cabello a la vez; puedes amarrar con un listón sin apretar demasiado.
 
 ![null](/img/uploads/-coletabaja1.jpg)
 
