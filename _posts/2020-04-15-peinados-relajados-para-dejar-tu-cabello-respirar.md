@@ -10,7 +10,7 @@ Tal vez llegue la ansiedad de querer hacerle un nuevo corte o retoque , pero lo 
 
 Aquí 10 peinados con los que tu cabello se sentirá libre y saludable sin tener que usar algún accesorio que pueda trozarlo o maltratarlo:
 
-![](/img/uploads/postcabello.jpg)
+![null](/img/uploads/portadaarticulobisuza.jpg)
 
 **1. Half Knot bun : **una manera muy práctica de peinar es el medio recogido haciendo un nudo sin usar liga para estar a gusto sin que el cabello se vaya hacia la frente. 
 
@@ -90,7 +90,7 @@ vía magazinefeed.me
 
 vía stylelovely
 
-**9.Low Knot: **otra manera de** **recoger tu cabello entrelazando los mechones a manera de un nudo; otro de los favoritos de quienes aman el effortless look.
+**9.Low Knot: **otra manera de\*\* \*\*recoger tu cabello entrelazando los mechones a manera de un nudo; otro de los favoritos de quienes aman el effortless look.
 
 ![null](/img/uploads/nudo.jpg)
 
