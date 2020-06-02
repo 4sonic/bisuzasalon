@@ -2,9 +2,7 @@
 layout: post
 title: 'Balmain Hair Couture, lujo exclusivo para tu cabello'
 ---
-![](/img/uploads/balmainportada.jpg)
-
-
+![null](/img/uploads/balmain1.jpg)
 
 Sabemos que es lujosa pero , ¿ qué es lo que hace a _Balmain Hair Couture_ , una marca perfecta para melenas exigentes ?
 
