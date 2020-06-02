@@ -8,7 +8,7 @@ Sabemos que es lujosa pero , ¿ qué es lo que hace a _Balmain Hair Couture_ , u
 
 Esta marca desde 1974 ha desarrollado productos para el cabello estando presente en los más prestigiosos salones de belleza y pasarelas. Su director creativo, Nabil Harlow, es el creador de las tendencias cada temporada y sus colecciones de productos están enfocadas a brindar un ritual exclusivo y elegante para el cabello.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W7-Sqed4_Z4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="450" height="300" src="https://www.youtube.com/embed/W7-Sqed4_Z4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 1.Sus productos además de ser libres de sulfatos y parabenos, están elaborados con ingredientes naturales como el elixir de argán y proteína de seda.
 
@@ -34,7 +34,7 @@ Esta marca desde 1974 ha desarrollado productos para el cabello estando presente
 
 ![](/img/uploads/balmainperfume.jpg)
 
-6.Cuentan con fórmulas ligeras,_ Light Thecnology Weigh_ , lo que los hace fáciles de usar y pueden combinarse entre sí demostrando que la simplicidad junto y calidad son la clave para conseguir en el cabello el resultado que se busca.
+6.Cuentan con fórmulas ligeras _Light Thecnology Weigh_ lo que los hace fáciles de usar y pueden combinarse entre sí demostrando que la simplicidad junto y calidad son la clave para conseguir en el cabello el resultado que se busca.
 
 ![](/img/uploads/balmainshampoo.jpg)
 
