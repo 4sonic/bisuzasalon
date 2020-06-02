@@ -24,7 +24,7 @@ Esta marca desde 1974 ha desarrollado productos para el cabello estando presente
 
 ![](/img/uploads/gigihadid.jpg)
 
-4.Cada producto está hecho a la medida pues cada temporada se lanza una colección muy especializada y exclusiva para cada necesidad del cabello cubriendo los requerimientos específicos que una mujer busca en los productos de _Hair Care_ & _Styling_  . Desde sprays protectores para el calor, texturizantes con base en sales minerales, cuidado intensivo que va de shampoos en seco,  acondicionadores en spray, fragancias que a su vez nutren al cabello, spray de agua salada para ondas surferas entre otros.
+4.Cada producto está hecho a la medida pues cada temporada se lanza una colección muy especializada y exclusiva para cada necesidad del cabello cubriendo los requerimientos específicos que una mujer busca en los productos de _Hair Care_ & _Styling_  . Desde sprays protectores para el calor, texturizantes con base en sales minerales, cuidado intensivo que va de shampoo en seco,  acondicionadores en spray, fragancias que a su vez nutren al cabello, mascarillas, ceras para un terminado brillante entre otros.
 
 ![](/img/uploads/texturizado.jpg)
 
