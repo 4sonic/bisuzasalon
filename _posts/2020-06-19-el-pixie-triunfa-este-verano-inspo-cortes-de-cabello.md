@@ -76,7 +76,7 @@ También en rizos luce genial el cabello corto. También se puede llevar rapado 
 
 ![null](/img/uploads/savagecurls.jpg)
 
-**Bob Crop**
+**Cropped Bob**
 
 Esta opción se presta para el cabello fino , ya que al ir encima de la mandíbula da un efecto de mayor volumen al cabello. Con flequillo recto por encima de las cejas queda muy bien para enmarcar rostros de forma rectangular pero también puede llevarse con partido al centro.
 
