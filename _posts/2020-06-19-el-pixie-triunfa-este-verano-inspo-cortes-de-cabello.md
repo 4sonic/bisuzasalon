@@ -2,6 +2,8 @@
 layout: post
 title: 'El Pixie triunfa este Verano : Inspo Cortes de Cabello'
 ---
+![](/img/uploads/pixiehair.jpg)
+
 Este Verano implica una renovación radical de la normalidad y con ello también del cabello. Del largo al corto. De lo clásico a lo extremo. No es coincidencia que los _pixies_ , y las micro melenas triunfen en nuestro nuevo inicio de era.
 
 Queremos empezar de nuevo, escapar de los _statements_ , vemos una oportunidad de darle una vuelta al _status quo _de las cosas , deshacernos aquello que pesa y estas emociones también se ven reflejadas en los looks que se están adoptando en el momento. Incluso algunos cortes del momento recuerdan el estilo boyish_ de los 90's que recuerda un estilo que proyectaba determinación y autenticidad.
