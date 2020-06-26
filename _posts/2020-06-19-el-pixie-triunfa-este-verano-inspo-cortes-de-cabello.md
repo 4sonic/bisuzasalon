@@ -2,7 +2,7 @@
 layout: post
 title: 'De pixies y blunt cuts  : Inspo Cortes de Cabello Verano 2020'
 ---
-![](/img/uploads/pixiehair.jpg)
+![](/img/uploads/pixieblunt.jpg)
 
 Este Verano implica una renovación radical de la normalidad y con ello también del cabello. Del largo al corto. De lo clásico a lo extremo. No es coincidencia que los _pixies_ , y las micro melenas triunfen en nuestro nuevo inicio de era.
 
@@ -48,7 +48,7 @@ Uno de los cortos más cool de la temporada. Kristen Stewart es uno de los refer
 
 **Choppy Pixie**
 
-Muy** **cortito ideal para quien no desea peinar tanto el cabello. Se da forma de manera que los mechones frontales muy cortos enmarquen el rostro dejando la mayor parte de la frente al descubierto.  
+Muy\*\* \*\*cortito ideal para quien no desea peinar tanto el cabello. Se da forma de manera que los mechones frontales muy cortos enmarquen el rostro dejando la mayor parte de la frente al descubierto.  
 
 ![null](/img/uploads/choppypixie.jpg)
 
