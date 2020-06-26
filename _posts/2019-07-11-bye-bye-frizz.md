@@ -6,9 +6,9 @@ Típico , llega el Verano y no sabemos qué hacer con el Frizz! El cabello se en
 
 Pero tenemos una buena noticia. EXISTEN SOLUCIONES!
 
-Por eso JULIO está dedicado a ellas y a que TÚ puedas decir BYE BYE FRIZZ!
+Julio es un mes que es inevitable sentir frizz en nuestro cabello , pero es una buena oportunidad para decirle BYE BYE FRIZZ gracias a estas maravillas de tratamientos !
 
-![](/img/uploads/longhair.jpg)
+![null](/img/uploads/longhair.jpg)
 
 Aquí te presentamos los increíbles tratamientos que BISUZA SALÓN tiene para que puedas encontrar la salida al molesto cabello encrespado:
 
@@ -94,6 +94,4 @@ La fibra capilar queda protegida contra daños externos
 
 ![null](/img/uploads/antesydespuesbizenza.jpg)
 
-Como te mencionamos, Julio es el Mes del Anti Frizz , así que aprovecha que tenemos promociones sumamente atractivas!!!
-
-Consulta en nuestras redes sociales la promoción de acuerdo a cada semana de este mes ;)
+Acude a tu sucursal de preferencia previa cita para un diagnóstico sin costo!
