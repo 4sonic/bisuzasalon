@@ -8,9 +8,9 @@ Pero tenemos una buena noticia. EXISTEN SOLUCIONES!
 
 Por eso JULIO está dedicado a ellas y a que TÚ puedas decir BYE BYE FRIZZ!
 
-Aquí te presentamos los increíbles tratamientos que BISUZA SALÓN tiene para que puedas encontrar la salida al molesto cabello encrespado:
+![](/img/uploads/longhair.jpg)
 
-![null](/img/uploads/byefrizz.jpg)
+Aquí te presentamos los increíbles tratamientos que BISUZA SALÓN tiene para que puedas encontrar la salida al molesto cabello encrespado:
 
 **BRAZILIAN BLOWOUT**
 
