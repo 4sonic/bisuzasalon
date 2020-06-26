@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'El Pixie triunfa este Verano : Inspo Cortes de Cabello'
+title: 'De pixies y blunt cuts  : Inspo Cortes de Cabello Verano 2020'
 ---
 ![](/img/uploads/pixiehair.jpg)
 
