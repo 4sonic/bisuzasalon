@@ -6,7 +6,7 @@ title: '8 H MAGIC NIGHT SERUM: La clave para nutrir tu cabello mientras duermes!
 
 Tener un cabello envidiable y sano requiere compromiso, pero qué tal si existe una solución que te ayudará a lograrlo actuando durante tus 8 horas de sueño para que al día siguiente te levantes con el cabello más suave, brillante y disciplinado. Existe esa solución y se llama 8 H NIGHT SERUM desarrollado por la prestigiosa marca francesa Kerastase. 
 
-Dedicamos un artículo a este producto por que no es solo un producto sino un todo. Actualmente este tipo de productos han tomado gran protagonismo pues te permiten optimizar tiempos y resolver varias necesidades del cabello de una sola vez.
+Dedicamos un artículo a este producto por que no es solo un producto sino un todo en uno. Actualmente este tipo de productos han tomado gran protagonismo pues te permiten optimizar tiempos y resolver varias necesidades del cabello de una sola vez.
 
 ![null](/img/uploads/magic.jpg)
 
