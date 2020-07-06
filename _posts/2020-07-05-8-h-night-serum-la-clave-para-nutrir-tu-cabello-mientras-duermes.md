@@ -28,7 +28,7 @@ Su exclusiva tecnología _Iris Royal Complexe_ + 5 vitaminas combinadas nutre pr
 
 Sus activos como lo son el extracto de jalea real que es rico en proteínas, glucosa y lípidos , y de Iris Rizoma, así como las vitaminas B5, B6 y B3 protegen contra la oxidación, reparan, fortalecen y dejan el cabello sumamente suave. Además es libre de parabenos.
 
-<iframe width="500" height="315" src="https://www.youtube.com/embed/myXHGCxSGFY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="400" height="300" src="https://www.youtube.com/embed/myXHGCxSGFY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Te aconsejamos aplicar 2 a 4 dosificaciones en manos antes de ir a la cama y distribuir de medios a puntas en cabello húmedo o seco. Deja actuar por la noche y no enjuagues por la mañana.
 
