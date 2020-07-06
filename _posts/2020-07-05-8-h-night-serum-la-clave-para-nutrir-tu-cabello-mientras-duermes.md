@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '8 H NIGHT SERUM: La clave para nutrir tu cabello mientras duermes!'
+title: '8 H MAGIC NIGHT SERUM: La clave para nutrir tu cabello mientras duermes!'
 ---
 ![](/img/uploads/8night.jpg)
 
